@@ -1,0 +1,6 @@
+#+title: Readme
+
+* Star Config
+Star config is a lib to provide a common configuration for tools and bots.
+
+Bots and tools ARE encourage to use their own config if it options are not met in the config.
